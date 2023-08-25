@@ -13,7 +13,7 @@
 
   <book xml:id="vectors-book">
     <title>Euclidean Vectors</title>
-    <subtitle>In 1- 2- and 3- dimensions</subtitle>
+    <subtitle>Operations on Arrows</subtitle>
 
     <frontmatter xml:id="frontmatter">
       <titlepage>
@@ -28,13 +28,13 @@
       </titlepage>
 
 
-      <colophon>
+     <colophon>
 
         <website>
           <name>
-            <c>example.org</c>
+            <c>daedelica.org</c>
           </name>
-          <address>https://example.org</address>
+          <address>https://daedelica.org</address>
         </website>
 
         <copyright>
@@ -47,12 +47,46 @@
       </colophon>
     </frontmatter>
 
+    <chapter xml:id="ch_intro">
+      <title>Introduction</title>
+      <p>
+        <term>Scalars</term> have magnitude. <term>Vectors</term> have magnitude and direction.</p>
+
+    </chapter>
+    
+    <chapter xml:id="chapter_scalars">
+      <title>Scalars</title>
+
+      <p>
+        <ul>
+          <li>A point is that which has no part.</li>
+          <li>A line is breadthless length.</li>
+          <li>A surface is that which has length and breadth only.</li>
+          <li>A solid is that which has length, breadth, and depth.</li>
+        </ul>
+        Euclid, 600 BC
+      </p>
+
+    <!--   <p><m>lambda \isin</m></p>
+      -->
+
+      <!-- comment -->
+
+
+      
+      <p>
+      A vector can be scaled, that is, have its length or magnitude changed. The vector can be stretched or shrunk. Scalars are real numbers used to scale vectors. Scaling changes the length but not the direction of a vector. The only dirrectional
+      change is multiplication by a negative scalar, which reverse the vector. Does the      markup ignore extra     spaces   ?
+      </p>
+  
+    </chapter>
+    
     <chapter xml:id="chapter_reals">
       <title>Real Numbers</title>
 
       <section xml:id="section-real-ops">
         <title>Operations on Real Numbers</title>
-        <p>Hello</p>
+        <p>Hello. This is some <!-- placeholder --> text. <!-- This is intended to be a comment.--></p>
       </section>
 
       <section xml:id="section-props">
@@ -68,12 +102,13 @@
       <section xml:id="section-num-line">
         <title>Real Number Line</title>
         <p>Hello</p>
-      </section>
+      
 
-        <subsection xml:id="sub-ops">
+        <paragraphs xml:id="sub-ops">
           <title>Operations on the Real Numbers</title>
-          <p></p>
-        </subsection>
+          <p>real numbers can be added and multiplied.</p>
+        </paragraphs>
+      </section>
 
       <section xml:id="section-realline">
         <title>The Real Number Line</title>
@@ -85,6 +120,7 @@
 
     <chapter xml:id="chapter-two-d">
       <title>Two Dimensions</title>
+      <p>length and breadth.</p>
     </chapter>
 
 
