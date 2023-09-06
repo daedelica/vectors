@@ -51,13 +51,12 @@
       <title>Introduction</title>
       <p>
         A vector is a quantity with magnitude and direction. A scalar is a quantity with magnitude only.
-
-       <xref @xml:id="nasa_vectors">
-        https://www.grc.nasa.gov/www/k-12/airplane/vectors.html
-       </xref>
+ 
       </p>
 
-      <p> Vector quantities have two characteristics, a magnitude and a direction. Scalar quantities have only a magnitude. </p>
+      <p> Vector quantities have two characteristics, a magnitude and a direction. Scalar quantities have only a magnitude.
+        https://www.grc.nasa.gov/www/k-12/airplane/vectors.html
+      </p>
       <p> 
         Vectors can be represented by directed line segments. The length of the line represents the magnitude. The direction of the line represents the direction.
 
