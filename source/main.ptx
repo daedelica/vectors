@@ -20,7 +20,7 @@
         <author>
           <personname>Paul D Anderson</personname>
           <department>Your department</department>
-          <institution>Your institution</institution>
+          <institution>Daedelica</institution>
         </author>
         <date>
           <today />
@@ -34,7 +34,7 @@
           <name>
             <c>daedelica.org</c>
           </name>
-          <address>https://daedelica.org</address>
+          <address>https://daedelica.com</address>
         </website>
 
         <copyright>
@@ -49,6 +49,19 @@
 
     <chapter xml:id="ch_intro">
       <title>Introduction</title>
+      <p>
+        A vector is a quantity with magnitude and direction. A scalar is a quantity with magnitude only.
+
+       <xref @xml:id="nasa_vectors">
+        https://www.grc.nasa.gov/www/k-12/airplane/vectors.html
+       </xref>
+      </p>
+
+      <p> Vector quantities have two characteristics, a magnitude and a direction. Scalar quantities have only a magnitude. </p>
+      <p> 
+        Vectors can be represented by directed line segments. The length of the line represents the magnitude. The direction of the line represents the direction.
+
+      </p>
       <p>
         <term>Scalars</term> have magnitude. <term>Vectors</term> have magnitude and direction.</p>
 
@@ -67,11 +80,10 @@
         Euclid, 600 BC
       </p>
 
-    <!--   <p><m>lambda \isin</m></p>
+    <!--   <p><m>lambda \in</m></p>
       -->
 
       <!-- comment -->
-
 
       
       <p>
