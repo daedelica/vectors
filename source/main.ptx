@@ -50,9 +50,24 @@
     <chapter xml:id="ch_intro">
       <title>Introduction</title>
       <p>
-        A vector is a quantity with magnitude and direction. A scalar is a quantity with magnitude only.
- 
+        We'll start with Euclid. Euclid was a greek mathematician living about  600 BC. His book, Elements, still serves as a foundation for modern geometry.
       </p>
+      <p>
+        We will assume you are familiar with the basic concepts of geometry, such as points, lines, planes and solids. We will further assume the ideas of length and angle are familiar.
+      </p>
+      <p> 
+        Implicit in Euclid's Elements is a three-dimensional space, now called Euclidean space. It corresponds the physical space around us. Its qualities:
+        <ul>
+          <li>Three-dimensions</li>
+          <li> Orthogonal axes</li>
+          <li>x,y,z; i,j,k</li>
+          <li>metric, dot product</li>
+        </ul>
+      </p>
+
+<p>
+        A vector is a quantity with magnitude and direction. A scalar is a quantity with magnitude only.
+       </p>
 
       <p> Vector quantities have two characteristics, a magnitude and a direction. Scalar quantities have only a magnitude.
         https://www.grc.nasa.gov/www/k-12/airplane/vectors.html
