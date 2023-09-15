@@ -47,6 +47,28 @@
       </colophon>
     </frontmatter>
 
+    <chapter xml:id="ch_reals">
+      <title>Real Numbers</title>
+      <p>
+        
+      <ul>
+        <li>
+          multiplication
+          
+        </li>
+        <li>
+          <title>Addition</title>
+          <p>
+          commutative additions   
+          </p>
+        
+        </li>
+      </ul>
+    </p> 
+      
+      
+
+    </chapter>
     <chapter xml:id="ch_intro">
       <title>Introduction</title>
       <p>
